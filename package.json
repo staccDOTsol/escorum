@@ -72,7 +72,7 @@
     "ionic-plugin-keyboard": "^2.2.1",
     "lightrpc": "^1.0.1",
     "limitless-google-translate": "^1.1.8",
-    "lodash": "^3.10.1",
+    "lodash": "^4.17.23",
     "marked": "^0.3.19",
     "node-google-translate-skidz": "^1.1.1",
     "node-gyp": "^0.9.3",
