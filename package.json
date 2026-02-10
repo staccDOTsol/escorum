@@ -59,7 +59,7 @@
     "esteem-lib": "^0.4.7",
     "express": "^4.16.4",
     "fetch-ponyfill": "^4.1.0",
-    "firebase-admin": "^6.2.0",
+    "firebase-admin": "^13.6.1",
     "fs": "0.0.2",
     "fsevents": "^2.0.1",
     "gulp-browserify": "^0.5.1",
